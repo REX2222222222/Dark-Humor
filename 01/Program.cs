@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace 黑色幽默
+namespace 01
 {
     internal class Program
     {
